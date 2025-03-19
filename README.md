@@ -1,6 +1,9 @@
-## Hi everybody 👋
+## Hi everybody ✌🏻
+
+### I am studying front-end development and also trying to learn back-end programming with Node.js. Here you will find my personal projects that I created for fun and learning. 🤓💻
 
 ![загруженное](https://github.com/user-attachments/assets/65314cb3-6fba-4df7-8371-becda32c847e)
+
 
 
 <!--
