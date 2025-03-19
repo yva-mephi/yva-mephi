@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi everybody 👋
+
+![загруженное](https://github.com/user-attachments/assets/65314cb3-6fba-4df7-8371-becda32c847e)
+
 
 <!--
 **yva-mephi/yva-mephi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
